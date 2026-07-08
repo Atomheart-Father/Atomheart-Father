@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atomheart-Father
 - 👀 I’m interested in art and music
-- 🌱 I’m currently learning federated machine learning
+- 🌱 I’m currently working on AI smart Gaming research
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
