@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Atomheart-Father
-- 👀 I’m interested in art and music
-- 🌱 I’m currently working on AI smart Gaming research
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Atomheart-Father/Atomheart-Father is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 AI researcher & engineer working on LLMs, agents, and interactive systems
+- 🎮 Building experimental AI-driven games at [Boxz Studio](https://boxz-studio.github.io)
+- 🎨 Interested in art, music, photography, and digital culture
+- 💌 Open to research, creative, and technical collaborations
