@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atomheart-Father
 - 🧠 AI researcher & engineer working on LLMs, agents, and interactive systems
-- 🎮 Building experimental AI-driven games at [Boxz Studio](https://boxz-studio.github.io)
+- 🎮 Building experimental AI-driven games at [Boxz Studio](https://boxzstudio.xyz)
 - 🎨 Interested in art, music, photography, and digital culture
 - 💌 Open to research, creative, and technical collaborations
